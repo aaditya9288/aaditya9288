@@ -52,4 +52,4 @@ I enjoy building backend services, solving real-world engineering challenges, an
 
 ---
 
-📫 **Reach Me:** [LinkedIn](https://www.linkedin.com/in/aaditya-sharma-683744279) | [Email](mailto:aadityasharma9011@gmail.com)
+📫 **Reach Me:** [LinkedIn](https://www.linkedin.com/in/aaditya-sharma-683744279) | [Email](mailto:aadityasharma9011@gmail.com).
