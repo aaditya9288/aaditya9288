@@ -1,55 +1,54 @@
 # 👋 Hi, I'm Aaditya Sharma
 
-Aspiring **Software Development Engineer (SDE)** passionate about designing scalable systems, RESTful APIs, and data-driven products.  
-I enjoy building backend services, solving real-world engineering challenges, and experimenting with NLP & automation.
+Aspiring **Software Development Engineer (SDE)** passionate about backend development, problem-solving, and building reliable software systems.  
+I enjoy working with Java-based applications, REST APIs, databases, and applied NLP projects.
 
 ---
 
 ## ⚙️ Tech Stack
 
-**Languages:**  Java, Python, SQL, JavaScript  
-**Frameworks:**  Flask, PyTorch, Hugging Face Transformers  
-**Databases:**  MySQL, MongoDB  
-**Tools:**  Postman, Git, GitHub, VS Code  
-**Core Concepts:**  OOP, DSA, System Design, API Architecture, File Handling, Indexing
+**Languages:** Java, Python, SQL  
+**Frameworks / Libraries:** Flask, PyTorch, Hugging Face Transformers  
+**Databases:** MySQL, MongoDB  
+**Tools:** Git, GitHub, Postman, VS Code  
+**Core Concepts:** OOP, Data Structures & Algorithms, REST APIs, MVC Architecture, File Handling, Database Indexing
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧩 [Flask REST API — User Data Management](https://github.com/aaditya9288/flask-rest-api)
-- RESTful API with JWT authentication & CRUD operations
-- Optimized DB queries & response structure for scalability
-- Designed using REST best practices, tested via Postman
-- <sub>**Stack:** Python, Flask, MySQL, SQLAlchemy</sub>
+### 🔡 Hindi Grammar Correction using Indic-mT5 (NDCamp Project)
+- Built a transformer-based system to correct grammatical errors in Hindi sentences
+- Fine-tuned **Indic-mT5** on parallel incorrect–correct sentence pairs
+- Implemented preprocessing, tokenization, batching, and inference using PyTorch
+- Evaluated model performance using BLEU score and manual qualitative checks
+- Designed a simple pipeline for text input → correction output
 
-### 🔡 [Hindi Grammar Correction using mT5](https://github.com/aaditya9288/hindi-grammar-correction)
-- Fine-tuned Indic-mT5 transformer for grammar correction
-- Efficient batching & model inference in PyTorch
-- Real-time correction via Flask API deployment
-- <sub>**Stack:** Python, Hugging Face, PyTorch, Flask</sub>
-
-### 📈 [Stock Data Aggregator (Fintech Simulation)](https://github.com/aaditya9288/stock-data-aggregator)
-- Mock trading API simulating live stock data feeds
-- Caching, pagination, & rate limiting implemented
-- Microservice structure inspired by Upstox
-- <sub>**Stack:** Flask, MongoDB, REST API Design</sub>
+<sub>**Tech Stack:** Python, PyTorch, Hugging Face Transformers, Indic-mT5</sub>
 
 ---
 
-## 🧮 Coding Practice & System Design
+### 🏦 Java Banking System Application
+- Console-based banking application developed using **core Java**
+- Implemented features such as account creation, deposit, withdrawal, balance inquiry, and transaction handling
+- Followed **OOP principles** (encapsulation, inheritance, abstraction)
+- Used **MVC-style structure** for better code organization
+- Integrated **MySQL** for persistent storage of user and account data
 
-- [Java DSA Practice](https://github.com/aaditya9288/java-dsa-practice): 100+ problems—recursion, trees, linked lists, arrays
-- [System Design Notes](https://github.com/aaditya9288/system-design-fundamentals): Load balancing, caching, scaling APIs
+<sub>**Tech Stack:** Java, MySQL, JDBC</sub>
 
 ---
 
 ## 🧠 Currently Learning
 
-- Real-time system design & scalable API architecture
-- Distributed systems & event-driven design
-- Low-latency data processing for social & trading apps
+- Strengthening Java fundamentals and backend development concepts
+- Database design and query optimization
+- Applied DSA for technical interviews
+- Basics of scalable system design
 
 ---
 
-📫 **Reach Me:** [LinkedIn](https://www.linkedin.com/in/aaditya-sharma-683744279) | [Email](mailto:aadityasharma9011@gmail.com).
+📫 **Reach Me:**  
+[LinkedIn](https://www.linkedin.com/in/aaditya-sharma-683744279)  
+[Email](mailto:aadityasharma9011@gmail.com)
+
